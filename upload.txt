@@ -1,0 +1,2 @@
+Conclusion
+In this tutorial, I've shown you how to automate word counting on files uploaded to an S3 bucket using AWS Lambda and send the word count in an email notification via Amazon SNS. This automation can be a valuable addition to various data processing and content analysis workflows, saving you time and effort while keeping you informed about the contents of uploaded files. Explore further customization and integration options to suit your specific use cases.
